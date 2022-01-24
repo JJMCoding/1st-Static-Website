@@ -88,3 +88,19 @@ main {
   color: white;
   margin-top: 0.5;
 }
+
+/* Responsiev Part */
+@media screen and (max-width: 1150px) {
+  main {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  main {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+}
